@@ -1,4 +1,4 @@
-# Cloud Engineering Team Project
+# Cloud Engineering Terraform Project
 
 ## Running Terraform to create the infrastructure
 
